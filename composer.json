@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "ms580/mini-rest-framework": "^1.0.3",
+        "ms580/mini-rest-framework": "^1.0.4",
       "ext-pdo": "*"
     },
     "require-dev": {
